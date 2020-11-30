@@ -3,7 +3,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "12345";
+$password = "";
 $db = 'php_login_validated';
 
 // Create connection
