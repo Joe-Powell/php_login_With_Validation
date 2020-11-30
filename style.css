@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+}
+
+
+#registerForm {
+    
+    width:300px;
+    padding:20px;
+    margin:25px auto;
+    border: solid #f8f9fa;
+    vertical-align: top;
+}
+
+.registerForm {
+    display:none;
+}
+.loginForm {
+    display:none;
+}
+
+#registerForm h2 {
+    color:#007bff;
+}
+
+#registerForm .fa-times {
+    width:100%;
+    font-size: 25px;
+    text-align: right;
+    color:#007bff;
+}
+
+.btns {
+    width: 100vw;
+    text-align: center;
+    padding:15px;
+    background-color: grey;
+    
+
+}
+
+.btns .btn {
+    margin-right:15px;
+}
+
+.container {
+    width:100vw;
+    text-align: center;
+}
